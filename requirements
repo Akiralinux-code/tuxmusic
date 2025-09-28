@@ -1,0 +1,15 @@
+# Core GUI Framework
+pip install customtkinter tkinter
+
+# Audio Processing
+pip install pygame python-vlc mutagen
+
+# Advanced Features  
+pip install numpy matplotlib librosa
+pip install Pillow requests
+
+# Database
+pip install sqlite3
+
+# Optional for enhanced features
+pip install scipy scikit-learn
